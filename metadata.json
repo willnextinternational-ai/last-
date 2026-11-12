@@ -1,0 +1,7 @@
+{
+  "name": "ACADEMIA ROCKETS - CHILLI BEANS",
+  "description": "Plataforma Corporativa de Treinamento LMS da Rede Rockets e Chilli Beans. Experiência cinematográfica, cursos, avaliações, certificados e tutor de inteligência artificial.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
